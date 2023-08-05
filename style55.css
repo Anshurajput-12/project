@@ -1,0 +1,58 @@
+.gh{
+    background-color: rgb(226, 43, 183);
+    font-size: 20px;
+    color: white;
+    width: 17%;
+}
+.sd{
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+    width: 12%;
+}
+.rt{
+    background-color: brown;
+    font-size: 20px;
+    color: white;
+    font-family: arial narrow;
+    width: 10%;
+}
+.ui{
+    background-color: darkgreen;
+    font-size: 20px;
+    color: white;
+    font-family: Franklin Gothic Medium;
+    width: 12%;
+}
+.df{
+    background-color: crimson;
+    font-size: 20px;
+    color: white;
+    font-family: lucida sans regular;
+    width: 10%;
+}
+.jk{
+    background-color: dimgrey;
+    font-size: 20px;
+    color: white;
+    font-family: monospace;
+    width: 10%;
+}
+.bn{
+    background-color:indigo;
+    font-size: 20px;
+    color: white;
+    font-family: impact;
+    width: 15%;
+}
+.as{
+    background-color: olive;
+    font-size: 20px;
+    color: white;
+    width: 13%;
+}
+.kl{
+    background-color: aqua;
+    display: flex;
+}

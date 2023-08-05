@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+}
+.out{
+    background-color: navy;
+}
+.fl{
+    display: flex;
+    background-color: white;
+}
+h1{
+    font-size: 4.5rem;
+    text-align: center;
+    color: red;
+}
+im{
+    width: 10rem;
+    height: 10rem;
+}
+.card{
+    padding: 10px;
+}

@@ -1,0 +1,28 @@
+.tree{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+ul{
+    list-style: none;
+    display: flex;
+padding-top: 1rem;
+    
+}
+img{
+    width: 5rem;
+}
+.street{
+    padding-left: 4rem;
+}
+.trafic{
+ padding-left: 30rem;
+}
+li{
+    padding-left: 2rem;
+}

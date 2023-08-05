@@ -1,0 +1,21 @@
+#outerbox{
+    background-color: purple;
+    padding: 10px;
+}
+.box{
+    background-color: blue;
+    padding: 10px;
+}
+.white-text{
+    background-color: red;
+    height: 50px;
+    color: white;
+    font-size: 50px;
+    margin-bottom: 4%;
+}
+.yellow-text{
+    height: 50px;
+    color: white;
+    font-size: 50px;
+    margin-bottom: 4%;
+}
