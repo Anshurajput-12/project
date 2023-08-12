@@ -19,4 +19,8 @@ im{
 }
 .card{
     padding: 10px;
+   
+}
+.card:hover{
+    transform: scale(1.2);
 }
